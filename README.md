@@ -2,6 +2,7 @@
 Package headline provides functionality to extract the first non-empty line from a string.
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/goaux/headline.svg)](https://pkg.go.dev/github.com/goaux/headline)
+[![Go Report Card](https://goreportcard.com/badge/github.com/goaux/headline)](https://goreportcard.com/report/github.com/goaux/headline)
 
 This package is useful for processing text data where the first meaningful line
 needs to be extracted, such as in configuration files, headers, or any text
